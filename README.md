@@ -28,10 +28,10 @@ Nesse projeto utilizamos as seguintes tecnologias:
 ```bash
   # Clone o Repositório:
   $ git clone
-   https://github.com/andrecampestre/Ignite-Desafio01-ConceitosNode
+   https://github.com/andrecampestre/Ignite-Nodejs-Desafio01
 
   # Entre no Diretório:
-  $ cd Ignite-Desafio_01-Conceitos_NodeJS
+  $ cd Ignite-Nodejs-Desafio01
 
   # Instale as Dependências do Projeto:
   $ yarn install
